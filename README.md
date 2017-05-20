@@ -5,8 +5,22 @@ game about art history
 notes to self:
 
 tools:
-CODE: html5/css/javascript
+CODE: html5/css/javascript, jQuery, pixiJS
 HOST:github
+
+example:
+UX/UI- pixiJS gallery
+
+resources:
+saving data (localStorage) - https://www.w3schools.com/HTML/html5_webstorage.asp
+
+menu/pause (title PAUSE buttons RESUME, LEVELS) (see Stand Alone) - http://dev.vast.com/jquery-popup-overlay/
+
+parallaxing bg - https://onextrapixel.com/create-an-interactive-moving-backgroundobject-that-reacts-to-viewers-cursor/
+
+parallaxing arrows ontop of bg - http://www.jqueryscript.net/animation/Interactive-Parallax-Effect-SimpleParallax-js.html
+
+txt events (store txt in JSON database) - http://www.flashbynight.com/tutes/mcqquiz/
 
 
 description of game:
